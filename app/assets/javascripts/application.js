@@ -13,5 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require twitter/bootstrap
+// turbolinks turns everything into ajax
 //= require turbolinks
 //= require_tree .
